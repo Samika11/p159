@@ -1,0 +1,11 @@
+Model Information:
+* title:	Super Earth Poster
+* source:	https://sketchfab.com/3d-models/super-earth-poster-fa96ca9105764de3a52d1ddd87c68a77
+* author:	Whystler (https://sketchfab.com/Whystler)
+
+Model License:
+* license type:	CC-BY-NC-ND-4.0 (http://creativecommons.org/licenses/by-nc-nd/4.0/)
+* requirements:	Author must be credited. No commercial use. Modified versions can not be distributed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Super Earth Poster" (https://sketchfab.com/3d-models/super-earth-poster-fa96ca9105764de3a52d1ddd87c68a77) by Whystler (https://sketchfab.com/Whystler) licensed under CC-BY-NC-ND-4.0 (http://creativecommons.org/licenses/by-nc-nd/4.0/)
